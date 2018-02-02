@@ -12,6 +12,7 @@
     <Authors>Andrew Piper</Authors>
     <Company />
     <Description>Some additional functions for linq queries.</Description>
+    <PackageLicenseUrl>https://github.com/threax/Threax.Extensions.Linq/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
